@@ -87,12 +87,12 @@ Lite Video Converter is the first application under the Lite Media Utilities eco
 
 Future applications will share:
 
-FFmpeg
-7-Zip
-Themes
-Configuration systems
-Update infrastructure
-Common utility libraries
+* FFmpeg
+* 7-Zip
+* Themes
+* Configuration systems
+* Update infrastructure
+* Common utility libraries
 
 to reduce duplicate installations and improve maintainability.
 
