@@ -120,6 +120,8 @@ https://github.com/Lite-Media-Utilities/Lite-Video-Converter/releases
 
 Current Stable Version: v1.0.0 (05.06.2026)
 
+**Note:** Updates to supporting tools (such as FFmpeg) may introduce compatibility issues if their API requirements are not supported by your graphics card driver. If GPU-related errors (Error Code: VC-2xx) occur after an update, consider reverting to a previously compatible version of the supporting tool(s) or updating your graphics driver, if supported.
+
 ## Security / Transparency
 * VirusTotal scan available for the latest release (SHA-256 : a19e69d1e9d8fb4c353a346da562106f2344565d51055179923fb8f0125e2881) (1/69)
 * No external trackers
